@@ -1,0 +1,268 @@
+
+
+.premier-img{
+    height: 50px;
+    width: 200px;
+
+}
+body{
+    font-family: advent pro; sans-serif;
+}
+
+
+header{
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    position: fixed;
+    background-color: #FFFFFF;
+    float: right;
+    overflow: hidden;
+    width: 100%;
+    padding-inline: 17%;
+/*justify-content: space-between;*/
+    
+}
+nav ul {
+    list-style: none;
+    margin-top: 15px;
+
+}
+header li{
+    float: right;
+    font-size: normal;
+    margin-right: 5px;
+}
+header li a{
+    text-decoration: none;
+    display: block;
+    padding-left : 5px ;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: gray;
+}
+nav ul li a:hover{
+    color: #1AD1B9;
+}
+.flexy{
+    display: flex;
+    justify-content: flex-start;
+}
+.container{
+    flex-direction: row-reverse;
+    justify-content: space-around;
+}
+
+.bloc1{
+    font-style: normal;
+    background-color: #1AD1B9;
+    color: #DCF7F6;
+    font-size: 13px;
+    border-radius: 30px;
+    padding-left: 15%;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-top: 40px;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    margin-left: 10px;
+    margin-right: 10px;  
+}
+.bloc2{
+    background-color: #5190E2;
+    font-style: normal;
+    color: #DCF7F6;
+    font-size: 13px;  
+    border-radius: 30px; 
+    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bloc3{
+    background-color: #1B2734;
+    font-style: normal;
+    color: #DCF7F6;
+    font-size: 13px;
+    border-radius: 30px;
+    padding: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+.main{
+    font-size: 15px;
+    color: #1CBBBE;
+    margin: 20px;
+}
+.main2{
+    margin: 20px;
+}
+.main3{
+    margin: 20px;
+    font-size: 100px;
+    font-style: 100px;
+}
+
+
+
+
+
+.block{
+    color:#ADEAFF;
+    font-size: 15px;
+    text-align: left;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+.salon{
+    text-align: center;
+    color:#42B8A1;
+    font-size: 40px;
+}
+body{
+    background-color: #FFFFFF;
+}
+.lorem{
+    font-size: large;
+    color: #9C7674;
+}
+
+.section2{ 
+   background-color: #DCF7F6;
+
+}
+
+.web1+p{
+    text-align: center;
+}
+.web1{
+    text-align: center;
+    padding: none;
+}
+.web2{
+    text-align: center;
+}
+.container{
+    flex: 30px;
+}
+
+
+.iconne1{
+    display: flex;
+}
+.iconne1 img{
+    margin-left: 30px;
+    color: gray;
+
+}
+.iconne1 p {
+    margin-left: 10px;
+}
+.iconne1 p a {
+    text-decoration: none;
+    color: gray;
+    font-size: 20px;
+}
+.iconne1 p a:hover{
+    color: #42B8A1;
+
+}
+.iconne-part1{
+    display: flex;
+}
+.iconne2{
+    display: flex;
+}
+.iconne2 img{
+    margin-left: 30px;
+    color: gray;
+    text-align: center;
+}
+.iconne2 img{
+    color: gray;
+}
+.iconne3{
+    margin: left;
+    text-align: center;
+    flex-wrap: wrap;
+
+}
+.bloc4{
+    background-color: #FFFFFF;
+    border-radius: 13px;
+    padding: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: grid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bloc5{
+    background-color: #FFFFFF;
+    border-radius: 13px;
+    padding: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.bloc6{
+    background-color: #FFFFFF;
+    border-radius: 13px;
+    padding: 50px;
+}
+.bloc7{
+    background-color: #FFFFFF;
+    border-radius: 13px;
+    padding: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+
+
+
+
+.footer{
+    text-align: center;
+    font-size: 12px;
+    color: gray;
+    font-family: advent pro; sans serif;
+}
+footer p a{
+    text-decoration: none;
+}
