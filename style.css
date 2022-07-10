@@ -157,7 +157,12 @@ body{
 .web1{
     text-align: center;
     padding: none;
+    color: #00B39B;
+    font-size: 20px;
+    font-style: italic;
 }
+    
+
 .web2{
     text-align: center;
 }
@@ -252,7 +257,9 @@ body{
     margin-right: 10px;
     
 }
-
+hr{
+    background-color: orangered;
+}
 
 
 
